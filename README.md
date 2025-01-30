@@ -1,3 +1,4 @@
+<img src="https://github.com/Lalit8976/Lalit8976/blob/main/1.png">
  <h1 align="center">Hi 👋, I'm Lalit Sharma</h1>
 <h3 align="center">I am a professional Software Engineer</h3>
 
