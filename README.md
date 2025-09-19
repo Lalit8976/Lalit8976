@@ -1,6 +1,6 @@
 <img src="https://github.com/Lalit8976/Lalit8976/blob/main/1.png">
  <h1 align="center">Hi 👋, I'm Lalit Sharma</h1>
-<h3 align="center">I am a professional Software Engineer</h3>
+<h3 align="center">I am a web Developer Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalit8976&label=Profile%20views&color=0e75b6&style=flat" alt="lalit8976" /> </p>
